@@ -1,0 +1,7 @@
+theia@theia-carlosyickwa:/home/project/mcino-Introduction-to-Git
+-and-GitHub$ git branch -vv
+* bug-fix-revert 24f7130 Revert "done"
+  bug-fix-typo   433283a done
+  main           433283a [origin/main: ahead 1] done
+theia@theia-carlosyickwa:/home/project/mcino-Introduction-to-Git
+-and-GitHub$ 
